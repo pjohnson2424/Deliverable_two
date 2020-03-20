@@ -31,3 +31,4 @@ var groupSize = prompt("How many are in your group?");
 
 
 var result = "Since you're a group of " + groupSize + " and want to go on a " + vacationType + " vacation, you should go " + travelSuggestion;
+console.log(result) ;
